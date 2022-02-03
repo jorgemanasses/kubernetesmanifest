@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: arauiojm/test:4
+      - image: arauiojm/test:latest
         name: flaskdemo
         resources: {}
 status: {}
